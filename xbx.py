@@ -103,6 +103,7 @@ while True:
         logo()
         print("[1] back")
         print("esta achyta sar wordlist fileaka tkaya boosta")
+        link: https://www.mediafire.com/file/rnst8oqd5zj1ue8/wordlist_kurdy.txt/file
         time.sleep(3)
         os.system("xdg-open https://www.mediafire.com/file/rnst8oqd5zj1ue8/wordlist_kurdy.txt/file")
         while True:
