@@ -14,4 +14,4 @@ apt install python3
 
 cd xbx
 
-python3 xbx.py
+python3 xbx.py.pyc
