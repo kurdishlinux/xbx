@@ -51,7 +51,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif aa == aaaaaaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -61,7 +61,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif aaa == aaaaaaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -71,7 +71,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif aaaa == aaaaaaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -81,7 +81,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif aaaaa == aaaaaaa:
                 os.system("claer")
                 os.system("cd ..")
@@ -91,10 +91,10 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif aaaaaa == aaaaaaa:
                 os.system("clear")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
     elif ss == sssssss:
         os.system("clear")
         logo()
@@ -110,7 +110,7 @@ while True:
             shalinux = input("[>] ")
             if shlinux == shalinux:
                 os.system("clear")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
     elif ssss == sssssss:
         os.system("clear")
         logo()
@@ -142,7 +142,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hh == shaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -152,7 +152,7 @@ while True:
                 os.system("figlet tawaw")
                 time.sleep(3)
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hhh == shaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -165,7 +165,7 @@ while True:
                 time.sleep(2)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hhhh == shaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -178,7 +178,7 @@ while True:
                 time.sleep(2)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hhhhh == shaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -188,7 +188,7 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hhhhhh == shaa:
                 os.system("clear")
                 os.system("cd ..")
@@ -198,17 +198,17 @@ while True:
                 time.sleep(3)
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
             elif hhhhhhh == shaa:
                 os.system("clear")
                 os.system("cd ..")
                 os.system("git clone https://github.com/Azim-vau/crack-pro.git")
                 os.system("cd ..")
                 os.system("cd xbx")
-                os.system("python xbx.py.pyc")
+                os.system("python xbx.py")
             elif hhhhhhhh == shaa:
                 os.system("clear")
-                os.system("python3 xbx.py.pyc")
+                os.system("python3 xbx.py")
     elif sssss == sssssss:
         os.system("clear")
         os.system("termux-setup-storage")
@@ -250,7 +250,7 @@ while True:
         os.system("figlet TAWAW BW!")
         print("ests dagariytawaw!")
         time.sleep(3)
-        os.system("python3 xbx.py.pyc")
+        os.system("python3 xbx.py")
     elif ssssss == sssssss:
         os.system("clear")
         print("\u001b[31m")
