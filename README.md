@@ -24,4 +24,4 @@ git clone https://github.com/kuralinux/xbx.git
 
 cd xbx
 
-python3 xbx.py.pyc
+python3 xbx.py
