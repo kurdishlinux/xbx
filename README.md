@@ -1,20 +1,16 @@
-         __   ________   __
+      __   ________   __
          \ \ / /  _ \ \ / /
           \ V /| |_) \ V / 
            > < |  _ < > <  
           / . \| |_) / . \ 
-	 /_/ \_\____/_/ \_\
+         /_/ \_\____/_/ \_\
 
-<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
-crated by kura linux
-tiktok    : kuralinux
-telegram  : kuralinux
-github    : kuralinux
-<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
-
-
-
-
+	<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
+	crated by kura linux
+	tiktok    : kuralinux
+        telegram  : kuralinux
+        github    : kuralinux
+	<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
 
 
 
