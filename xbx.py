@@ -1,8 +1,6 @@
 import os, sys, time
 #bo test krdn
-#da dastt krdw krd yan brdt nawy mn bina
-#basha?
-
+#da dast karyw krd nawy mn bina
 def logo():
     print("\u001b[31m")
     file = open("22.txt","r")
