@@ -6,10 +6,8 @@
          /_/ \_\____/_/ \_\
 
 	<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
-	crated by kura linux
-	tiktok    : kuralinux
-        telegram  : kuralinux
-        github    : kuralinux
+	crated by kurdishlinux
+        github    : kurdishlinux
 	<-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
 
 
